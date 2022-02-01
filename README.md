@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- :computer: I mob program with great teams at Vehikl
+- 🔭 I started working with Laravel around 7 years ago. I still work with Laravel, Vue, and Tailwind with TDD today.
+- 🌱 I'm interested in AI detection with Python, Flask, etc
+- :video_game: I currently like to play Beat Saber, Walkabout Mini Golf, Synth Riders and Racket: Nx on Quest 2
+- ⚡ Fun fact: I took a broken dryer apart recently, learned about the electronics and parts, and got it functional again
