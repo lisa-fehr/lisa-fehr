@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- :computer: I mob program with great teams at Vehikl
-- 🔭 I started working with Laravel around 8 years ago. I still work with Laravel, Vue, and Tailwind with TDD today.
-- 🌱 I'm interested in AI detection with Python, Flask, etc
-- :video_game: I currently like to play Beat Saber, Walkabout Mini Golf, Synth Riders and Racket: Nx on Meta Quest 2
-- ⚡ Fun fact: I like to DIY. I have fixed:
-  - a clothes dryer
-  - a portable spot carpet cleaner
-  - a lawn mower carburetor
+- :computer: I mob program, pair program and solo program
+- 🔭 I started working with Laravel around 10 years ago. I still work with Laravel, Vue, and Tailwind with TDD today.
+- :video_game: I currently like to play Beat Saber, Walkabout Mini Golf, Synth Riders and Racket: Nx on the Meta Quest 2
+- ⚡ Fun fact: I have a curious nature and like DIY. I have:
+  - dismantled, cleaned, then tested and replaced the thermal fuse on a clothes dryer that wouldn't start
+  - opened up and fixed the spray line on a portable spot carpet cleaner
+  - fixed a lawn mower carburetor when it failed to start
+  - worked with enthusiasts to create a brackish tidal mudflat biotope to encourage the natural behavior of mudskippers
